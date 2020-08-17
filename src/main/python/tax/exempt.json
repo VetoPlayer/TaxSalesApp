@@ -1,0 +1,23 @@
+{
+	"categories": [{
+			"name": "Books",
+			"products": [
+				"book"
+			]
+		},
+		{
+			"name": "Food",
+			"products": [
+				"box of chocolates","chocolate bar"
+			]
+		}
+    ,
+        {
+			"name": "Drugs",
+			"products": [
+				"packet of headache pills"
+			]
+		}
+
+	]
+}
